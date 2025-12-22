@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "image": "/blog-1.jpg",
+        "imageDet": "/blog-1.jpg",
+        "tag": "Power Tool",
+        "postby": "Admin",
+        "date": "June 2 , 2025",
+        "title": "Functional Design Trends That Blend Style and Comfort",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "2",
+        "image": "/blog-2.jpg",
+        "imageDet": "/blog-2-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 3 , 2025",
+        "title": "Innovative Interior Ideas to Refresh Your Living Space",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "3",
+        "image": "/blog-3.jpg",
+        "imageDet": "/blog-3-det.jpg",
+        "tag": "Accessories",
+        "postby": "Admin",
+        "date": "June 4 , 2025",
+        "title": "Transform Your Home With the Modern Interior Design",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "4",
+        "image": "/blog-4.jpg",
+        "imageDet": "/blog-4-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 7 , 2025",
+        "title": "Elevate Every Corner With Sleek Interior Concepts",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "5",
+        "image": "/blog-5.jpg",
+        "imageDet": "/blog-5-det.jpg",
+        "tag": "Home Appliance",
+        "postby": "Admin",
+        "date": "June 8 , 2025",
+        "title": "The Art of Space: Smart Designs for Elegant Living",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "6",
+        "image": "/blog-6.jpg",
+        "imageDet": "/blog-6-det.jpg",
+        "tag": "Home Appliance",
+        "postby": "Admin",
+        "date": "June 11 , 2025",
+        "title": "Inspired Spaces: Blending Functions and Aesthetic",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "7",
+        "image": "/blog-7.jpg",
+        "imageDet": "/blog-7-det.jpg",
+        "tag": "Power Tool",
+        "postby": "Admin",
+        "date": "June !2 , 2025",
+        "title": "Designing Harmony: Where Architecture Meets Modern",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "8",
+        "image": "/blog-8.jpg",
+        "imageDet": "/blog-8-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 14 , 2025",
+        "title": "Crafting Beauty in Every Detail of Your Home",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "9",
+        "image": "/blog-9.jpg",
+        "imageDet": "/blog-9-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 17 , 2025",
+        "title": "Timeless Interiors Tailored for Contemporary Homes",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "10",
+        "image": "/blog-10.jpg",
+        "imageDet": "/blog-10-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 18 , 2025",
+        "title": "Luxury Living Redefined Elegant for the Modern Home",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "11",
+        "image": "/blog-11.jpg",
+        "imageDet": "/blog-11-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 18 , 2025",
+        "title": "Modern Architecture That Reflects Your Lifestyle",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "12",
+        "image": "/blog-12.jpg",
+        "imageDet": "/blog-12-det.jpg",
+        "tag": "Accessories",
+        "postby": "Admin",
+        "date": "June 20 , 2025",
+        "title": "Maximise Your Minimalist Space With Smart Solutions",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "13",
+        "image": "/blog-13.jpg",
+        "imageDet": "/blog-13-det.jpg",
+        "tag": "Electrical & lighting",
+        "postby": "Admin",
+        "date": "June 22 , 2025",
+        "title": "Modern Materials That Elevate Your Home's..",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    },
+    {
+        "id": "14",
+        "image": "/blog-14.jpg",
+        "imageDet": "/blog-14-det.jpg",
+        "tag": "Uncategorized",
+        "postby": "Admin",
+        "date": "June 28 , 2025",
+        "title": "Perfectly Redefining Interior Spaces for Modern Lifestyles",
+        "desc": "Modern interior design is all about creating a sleek, functional, and aesthetically pleasing space that reflects contemporary living. Whether you’re updating a single room or redesigning your entire home,"
+    }
+]

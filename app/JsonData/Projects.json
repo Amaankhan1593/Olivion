@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+         "image": "/Project-1.jpg",
+         "tags":  ["Residential"],
+         "title": "Industrial elegance condo",
+          "location": "New York",
+          "date": "14/01/2025"
+    },
+    {
+        "id": 2,
+         "image": "/Project-2.jpg",
+         "tags":  ["Residential"],
+         "title": "Serene Space Studio",
+          "location": "Los Angeles",
+          "date": "05/02/2025"
+    },
+    {
+        "id": 3,
+         "image": "/Project-3.jpg",
+         "tags":  ["Residential"],
+         "title": "Urban Zen Apartment",
+          "location": "Chicago",
+          "date": "21/03/2025"
+    },
+    {
+         "id": 4,
+         "image": "/Project-4.jpg",
+         "tags":  ["Residential" , "Single Home"],
+         "title": "Art Deco Revival",
+          "location": "Miami",
+          "date": "09/04/2025"
+    },
+    {
+         "id": 5,
+         "image": "/Project-5.jpg",
+         "tags":  ["Single Home"],
+         "title": "Golden Ratio Residence",
+          "location": "Houston",
+          "date": "26/05/2025"
+    },
+    {
+         "id": 6,
+         "image": "/Project-6.jpg",
+         "tags":  ["Residential"],
+         "title": "Nordic Minimalist Loft",
+          "location": "San Francisco",
+          "date": "14/06/2025"
+    },
+    {
+         "id": 7,
+         "image": "/Project-7.jpg",
+         "tags":  ["Residential"],
+         "title": "Modern Tranquility Villa",
+          "location": "Seattle",
+          "date": "28/07/2025"
+    },
+    {
+         "id": 8,
+         "image": "/Project-8.jpg",
+         "tags":  ["Residential"],
+         "title": "Vintage Glamour",
+          "location": "Boston",
+          "date": "12/09/2025"
+    },
+    {
+         "id": 9,
+         "image": "/Project-9.jpg",
+         "tags":  ["Residential"],
+         "title": "Bohemian Rhapsody",
+          "location": "Dallas",
+          "date": "03/11/2025"
+    }
+]
