@@ -35,10 +35,10 @@ export default function PricingPlans() {
        <div className="px-[8%] lg:px-[12%] py-20 mt-0 md:mt-[17%]">
           <div className="flex flex-col lg:flex-row gap-10">
             <div className="w-full lg:w-1/2 title pt-8">
-            <span className="rounded-full title-span border border-gray-400 px-6 py-2 GolosText uppercase font-bold">our pricing plans</span>
+            <span className="rounded-full title-span border border-gray-400 px-7 py-2 GolosText uppercase font-bold">our pricing plans</span>
             </div>
             <div className="w-full lg:h-2/3">
-             <h1 className="CalSans text-5xl ml-10 md:text-6xl mb-5 w-full lg:w-[60%]">Design your <span className="text-(--prim)"><br /> space, know <br /></span>services</h1> 
+             <h1 className="CalSans text-5xl ml-10 md:text-6xl mb-5 w-full lg:w-[60%]">Design your <span className="text-(--prim)"> space, know </span>services</h1> 
             </div>
          </div>
          <div className="flex flex-col lg:flex-row gap-5 h-full mt-10 ">

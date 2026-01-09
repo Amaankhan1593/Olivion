@@ -48,10 +48,10 @@ export default function Expertise() {
         <div className="px-[8%] lg:px-[12%] md:py-50 pt-10 pb-10 md:pb-[25%] relative">
         <div className="flex flex-col  gap-10">
             <div className="w-full pt-8">
-            <span className="rounded-full text-white title-span border border-gray-400 px-6 py-2 GolosText uppercase font-bold">Our expertise</span>
+            <span className="rounded-full title-span text-white border border-gray-400 px-7 py-2 GolosText uppercase ">Our expertise</span>
             </div>
             <div className="w-full lg:h-2/3">
-             <h1 className="CalSans text-4xl text-white md:text-7xl">Curating the perfect <br /> <span className="text-(--prim)">pieces to complete your <br /> </span>space</h1> 
+             <h1 className="CalSans text-4xl text-white md:text-7xl">Curating the perfect <span className="text-(--prim)">pieces <br /> to complete </span> your space</h1> 
             </div>
          </div>
            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10">

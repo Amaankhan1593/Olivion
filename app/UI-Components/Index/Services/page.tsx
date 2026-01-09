@@ -15,7 +15,7 @@ export default function Services() {
             <span className="rounded-full title-span border border-gray-400 px-6 py-2 GolosText uppercase font-bold">Our Services</span>
             </div>
             <div className="w-full lg:h-2/3">
-             <h1 className="CalSans text-4xl ml-10 md:text-7xl mb-5">Explore our <span className="text-(--prim)">comprehensive interior design</span> services</h1> 
+             <h1 className="CalSans text-4xl ml-10 md:text-6xl mb-5">Explore our <span className="text-(--prim)">comprehensive <br /> interior design</span> services</h1> 
              <p className="text-gray-400 GolosText ml-10">We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision.</p>
             </div>
          </div>

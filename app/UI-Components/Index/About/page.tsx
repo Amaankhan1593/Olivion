@@ -39,7 +39,7 @@ export default function About() {
       <div className="px-[8%] lg:px-[12%] py-20 about">
          <div className="flex flex-col lg:flex-row gap-10">
             <div className="w-full lg:w-1/3 title pt-8">
-            <span className="rounded-full title-span border border-gray-400 px-6 GolosText uppercase font-bold">About Olivion</span>
+            <span className="rounded-full title-span border border-gray-400 px-6 py-2 GolosText uppercase font-bold">About Olivion</span>
             </div>
             <div className="w-full lg:h-2/3">
              <h1 className="CalSans text-4xl ml-10 md:text-7xl">We Shape <span className="text-(--prim)">Interior Designs,<br /> Crafting </span>Timeless and Inspiring Spaces</h1> 
