@@ -527,6 +527,120 @@ body{
   opacity: 0;
 }
 
+/* About Card */
+
+.history-card{
+  position: relative;
+}
+
+.history-card::before{
+  content: '';
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  background-color: var(--prim);
+  border-radius: 50%;
+  left: 0;
+  z-index: 9;
+  top: 180px;
+}
+
+.history-card::after{
+  content: '';
+  position: absolute;
+  height: 1px;
+  width: 100vw;
+  background-color: rgba(128, 128, 128, 0.3);
+  left: 0;
+  top: 190px;
+}
+
+/* Team Page */
+
+.team-card{
+  position: relative;
+}
+
+.team-card::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, #000000d4, #00000000 50%);
+}
+
+.team-wrapper .team-card:nth-child(2),
+.team-wrapper .team-card:nth-child(5) {
+    transform: translateY(60px);
+}
+
+.team-content {
+  position: absolute;
+  bottom: -7%;
+  left: 5%;
+  z-index: 10;
+  transition: var(--tranistion-slow);
+}
+
+ .team-card:hover .team-content {
+  bottom: 5%;
+ }
+
+ .teams-bg {
+  position: relative;
+  width: 100%;
+  min-height: 300px; /* important */
+}
+
+.teams-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("/Team-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: -1; /* push bg behind content */
+}
+
+/* Page404*/
+
+.page404{
+  position: relative;
+  z-index: 5;
+}
+
+.page404::after{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../public/404-bg.jpg);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 17%;
+  z-index: -1;
+}
+
+.page404::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  transform: scaleX(-1);
+  background-image: url(../public/404-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 17%;
+  z-index: -1;
+}
+
+
 @media (max-width:991px){
   .hero{
     height: 100%;
@@ -566,6 +680,15 @@ body{
 
    .pricing-wrap{
     height: 300px;
+   }
+
+   .team-content {
+    bottom: -8%;
+   }
+
+   .team-wrapper .team-card:nth-child(2),
+   .team-wrapper .team-card:nth-child(5) {
+     transform: translateY(0px);
    }
 }
 

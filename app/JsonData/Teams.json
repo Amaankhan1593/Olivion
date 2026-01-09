@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/team-1.jpg",
+    "name": "Olivia Peterson",
+    "role": "Interior Designer"
+  },
+  {
+    "id": 2,
+    "image": "/team-2.jpg",
+    "name": "Mark Jackson",
+    "role": "Co-Founder & CEO"
+  },
+  {
+    "id": 3,
+    "image": "/team-3.jpg",
+    "name": "Valeria Novikova",
+    "role": "Lighting Specialist"
+  },
+  {
+    "id": 4,
+    "image": "/team-4.jpg",
+    "name": "Helen Reeves",
+    "role": "Material Consultant"
+  },
+  {
+    "id": 5,
+    "image": "/team-5.jpg",
+    "name": "Jake Nicholson",
+    "role": "3D Visualization"
+  },
+  {
+    "id": 6,
+    "image": "/team-6.jpg",
+    "name": "Alex Podzemsky",
+    "role": "Graphics Designer"
+  }
+]
